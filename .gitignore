@@ -12,3 +12,4 @@ logs/intermediate_outputs/after_login.html
 scripts/extract_info_from_pdfs.ipynb
 scripts/get_cvs_pdfs.ipynb
 scripts/get_cvs_pdfs_draft.py
+data_files/inputs/all_comments_manually_shown.html
