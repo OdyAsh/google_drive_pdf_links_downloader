@@ -1,0 +1,14 @@
+.conda/*
+secretss/*
+data_files/outputs/CVs/*.pdf
+data_files/outputs/CVs_with_names/*.pdf
+data_files/outputs/results.json
+data_files/outputs/CVs_with_names.zip
+data_files/outputs/broken_pdfs.txt
+# data_files/inputs/all_comments_manually_shown.html
+logs/intermediate_outputs/linkedin_post_with_comments.html
+logs/intermediate_outputs/LinkedIn.html
+logs/intermediate_outputs/after_login.html
+scripts/extract_info_from_pdfs.ipynb
+scripts/get_cvs_pdfs.ipynb
+scripts/get_cvs_pdfs_draft.py
